@@ -39,4 +39,10 @@ I chose to analyze starting location versus ending location to get a sense of ho
 
 ## Summary
 
+### Summary of Findings
+The Citi Bike business model seems more about providing an alternative to the congestion of commuter driving than providing bikes for tourists. This can be seen by the ratio of subscriber use to customer use, and the areas in which it is most heavily used. A business like this one could work in Des Moines but I don't think it could be structured like the one in New York because Des Moines lacks density and doesn't have the same automobile commuter hardship; additionally, more people own cars in Des Moines, live in the suburbs, and are able to park easier in the downtown area.
+
 ### Additional Analysis
+To find a model that would work for Des Moines, I would do a deeper study of pleasure cruises instead of commuter usage. Des Moines has beautiful parks that are distanced far apart, and it has bike path infrastructure to potentially support a Citi Bike service. Within the NY Citi Bike data, I recommend doing an analysis of trips that are distanced far apart, and evaluate whether it is subscribers or customers taking those trips.
+
+Within the pool of longer trips, I would also try to evaluate whether the bikers are checking the bike back into the original station or leaving it at a distant station. I think a large cost that went unexplored in the module is the potential expense of reallocating bikes. I tried to explore that data in the starting/ending location maps analyzed above but the amount of short-distance commuter traffic makes it challenging to evaluate long-distance traffic.
